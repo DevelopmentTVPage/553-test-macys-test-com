@@ -1,0 +1,28 @@
+{
+    "id": "213304",
+    "first_name": "Josh",
+    "last_name": "Habig",
+    "email": "josh.habig@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Sr. Manager Omnichannel Agent Experience",
+        "local_macys_store": "-1",
+        "racif_id": "91035264",
+        "phone_number": "5137879073",
+        "tongal": ""
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 13:51:36",
+    "login_id": "1759121",
+    "user_id": "213304",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Josh Habig",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "josh-habig",
+    "title": "Josh Habig",
+    "videos_count": "0"
+}

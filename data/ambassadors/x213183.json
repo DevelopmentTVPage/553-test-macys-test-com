@@ -1,0 +1,28 @@
+{
+    "id": "213183",
+    "first_name": "Lidia",
+    "last_name": "Luna",
+    "email": "lidia.luna@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/api\/canvas\/logo\/527829115-0.5900714638177.jpg",
+        "job_title": "Jewelry Complex Sales Supervisor",
+        "local_macys_store": "-1",
+        "racif_id": "71844731",
+        "phone_number": "(813) 638-7474",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525658523",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 03:13:34",
+    "login_id": "1759121",
+    "user_id": "213183",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Lidia Luna",
+    "profile_picture": "\/api\/canvas\/logo\/527829115-0.5900714638177.jpg",
+    "titleTextEncoded": "lidia-luna",
+    "title": "Lidia Luna",
+    "videos_count": "0"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "213198",
+    "first_name": "jacqueline",
+    "last_name": "andrade",
+    "email": "andradejackie25@yahoo.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/api\/canvas\/logo\/152729110-0.4534245653543.jpg",
+        "job_title": "color expert",
+        "local_macys_store": "174",
+        "racif_id": "10397125",
+        "phone_number": "5623417821",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1526008692",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 07:05:38",
+    "login_id": "1759121",
+    "user_id": "213198",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "jacqueline andrade",
+    "profile_picture": "\/api\/canvas\/logo\/152729110-0.4534245653543.jpg",
+    "titleTextEncoded": "jacqueline-andrade",
+    "title": "jacqueline andrade",
+    "videos_count": "0"
+}

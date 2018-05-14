@@ -1,0 +1,28 @@
+{
+    "id": "213351",
+    "first_name": "Amanda",
+    "last_name": "Economou Worrell",
+    "email": "amanda.economou@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/api\/canvas\/logo\/652755546-0.5147634019143.jpg",
+        "job_title": "sales manager ",
+        "local_macys_store": "14",
+        "racif_id": "71302942",
+        "phone_number": "603-820-3418",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525967962",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-10 03:05:39",
+    "login_id": "1759121",
+    "user_id": "213351",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Amanda Economou Worrell",
+    "profile_picture": "\/api\/canvas\/logo\/652755546-0.5147634019143.jpg",
+    "titleTextEncoded": "amanda-economou-worrell",
+    "title": "Amanda Economou Worrell",
+    "videos_count": "0"
+}

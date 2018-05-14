@@ -1,0 +1,28 @@
+{
+    "id": "213171",
+    "first_name": "Katie",
+    "last_name": "Dispenziere",
+    "email": "katelyn.dispenziere@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/api\/canvas\/logo\/755701992-0.2991463494952.jpg",
+        "job_title": "Merchandise Team Manager",
+        "local_macys_store": "103",
+        "racif_id": "10475774",
+        "phone_number": "9737142482",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1526040011",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 01:18:20",
+    "login_id": "1759121",
+    "user_id": "213171",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Katie Dispenziere",
+    "profile_picture": "\/api\/canvas\/logo\/755701992-0.2991463494952.jpg",
+    "titleTextEncoded": "katie-dispenziere",
+    "title": "Katie Dispenziere",
+    "videos_count": "0"
+}

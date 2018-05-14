@@ -1,0 +1,28 @@
+{
+    "id": "213141",
+    "first_name": "Kelsea",
+    "last_name": "Merryman",
+    "email": "kelsea.merryman@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/api\/canvas\/logo\/468476030-0.8872747334185.jpg",
+        "job_title": "Sales Floor Lead",
+        "local_macys_store": "-1",
+        "racif_id": "10891653",
+        "phone_number": "8305700208",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525921915",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:45:03",
+    "login_id": "1759121",
+    "user_id": "213141",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Kelsea Merryman",
+    "profile_picture": "\/api\/canvas\/logo\/468476030-0.8872747334185.jpg",
+    "titleTextEncoded": "kelsea-merryman",
+    "title": "Kelsea Merryman",
+    "videos_count": "0"
+}

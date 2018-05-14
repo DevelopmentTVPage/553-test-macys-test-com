@@ -1,0 +1,28 @@
+{
+    "id": "213336",
+    "first_name": "Sayra",
+    "last_name": "Torres",
+    "email": "sayra.torres@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Visual Manager",
+        "local_macys_store": "-1",
+        "racif_id": "10476079",
+        "phone_number": "2105428745",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525982901",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-08 20:22:57",
+    "login_id": "1759121",
+    "user_id": "213336",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Sayra Torres",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "sayra-torres",
+    "title": "Sayra Torres",
+    "videos_count": "0"
+}

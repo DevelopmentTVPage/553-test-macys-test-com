@@ -1,0 +1,28 @@
+{
+    "id": "213135",
+    "first_name": "Marissa",
+    "last_name": "Casazza",
+    "email": "marissa.casazza@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/api\/canvas\/logo\/155055846-0.3481057600583.jpg",
+        "job_title": "Marketing Effectiveness Analyst",
+        "local_macys_store": "70",
+        "racif_id": "10840553",
+        "phone_number": "6317937806",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525802847",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:27:13",
+    "login_id": "1759121",
+    "user_id": "213135",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Marissa Casazza",
+    "profile_picture": "\/api\/canvas\/logo\/155055846-0.3481057600583.jpg",
+    "titleTextEncoded": "marissa-casazza",
+    "title": "Marissa Casazza",
+    "videos_count": "0"
+}

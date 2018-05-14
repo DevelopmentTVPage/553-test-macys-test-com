@@ -5,11 +5,25 @@
     "theme": "tvpage",
     "disablePathToLower": true,
     "enableRobotsTXT": true,
-    "galleryChannelIds": "",
+    "galleryChannelIds": "163880169",
     "params": {
         "loginId": "1759121",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "test.com"
+        "cookiedomain": "test.com",
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "test.macys.test.com"
+            }
+        }
     }
 }

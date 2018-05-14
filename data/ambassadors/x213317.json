@@ -1,0 +1,28 @@
+{
+    "id": "213317",
+    "first_name": "Lisa",
+    "last_name": "Tran",
+    "email": "lisa.tran@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Campaign Analyst",
+        "local_macys_store": "212",
+        "racif_id": "10463406",
+        "phone_number": "4087723770",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525804427",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 18:25:41",
+    "login_id": "1759121",
+    "user_id": "213317",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Lisa Tran",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "lisa-tran",
+    "title": "Lisa Tran",
+    "videos_count": "0"
+}

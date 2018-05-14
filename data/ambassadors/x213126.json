@@ -1,0 +1,28 @@
+{
+    "id": "213126",
+    "first_name": "Michael",
+    "last_name": "Libra",
+    "email": "michael.libra@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/api\/canvas\/logo\/819516444-0.5659787895623.jpg",
+        "job_title": "MyStylist Executive",
+        "local_macys_store": "904",
+        "racif_id": "10749591",
+        "phone_number": "9529244457",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525830404",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:14:36",
+    "login_id": "1759121",
+    "user_id": "213126",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Michael Libra",
+    "profile_picture": "\/api\/canvas\/logo\/819516444-0.5659787895623.jpg",
+    "titleTextEncoded": "michael-libra",
+    "title": "Michael Libra",
+    "videos_count": "3"
+}

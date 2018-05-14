@@ -1,0 +1,28 @@
+{
+    "id": "213299",
+    "first_name": "Christina",
+    "last_name": "Ocasio",
+    "email": "christina.ocasio@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Visual Manager",
+        "local_macys_store": "-1",
+        "racif_id": "10111641",
+        "phone_number": "2036858267",
+        "tongal": ""
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 12:10:20",
+    "login_id": "1759121",
+    "user_id": "213299",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Christina Ocasio",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "christina-ocasio",
+    "title": "Christina Ocasio",
+    "videos_count": "0"
+}

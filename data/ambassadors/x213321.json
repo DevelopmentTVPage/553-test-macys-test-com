@@ -1,0 +1,28 @@
+{
+    "id": "213321",
+    "first_name": "Liz",
+    "last_name": "Pepin",
+    "email": "elizabethrpepin@gmail.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Visual Fashion Stylist",
+        "local_macys_store": "70",
+        "racif_id": "10801859",
+        "phone_number": "8604055191",
+        "tongal": ""
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-07 20:21:21",
+    "login_id": "1759121",
+    "user_id": "213321",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Liz Pepin",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "liz-pepin",
+    "title": "Liz Pepin",
+    "videos_count": "0"
+}

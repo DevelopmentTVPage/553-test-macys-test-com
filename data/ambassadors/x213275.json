@@ -1,0 +1,28 @@
+{
+    "id": "213275",
+    "first_name": "Anthony",
+    "last_name": "Stewart",
+    "email": "Anthony.J.Stewart@me.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Jewelry lead",
+        "local_macys_store": "25",
+        "racif_id": "10698918",
+        "phone_number": "9785493892",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525640541",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-05 12:22:50",
+    "login_id": "1759121",
+    "user_id": "213275",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Anthony Stewart",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "anthony-stewart",
+    "title": "Anthony Stewart",
+    "videos_count": "0"
+}

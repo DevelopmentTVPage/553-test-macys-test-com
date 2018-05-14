@@ -1,0 +1,28 @@
+{
+    "id": "213206",
+    "first_name": "Jessica",
+    "last_name": "Sakhaee",
+    "email": "jessica.sakhaee@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "planner",
+        "local_macys_store": "-1",
+        "racif_id": "71741706",
+        "phone_number": "5164573926",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525435585",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 12:06:00",
+    "login_id": "1759121",
+    "user_id": "213206",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Jessica Sakhaee",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "jessica-sakhaee",
+    "title": "Jessica Sakhaee",
+    "videos_count": "0"
+}

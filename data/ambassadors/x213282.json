@@ -1,0 +1,28 @@
+{
+    "id": "213282",
+    "first_name": "Bree",
+    "last_name": "Jones",
+    "email": "bree.jones@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "AST",
+        "local_macys_store": "-1",
+        "racif_id": "10644641",
+        "phone_number": "4256566005",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525920657",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-05 23:19:23",
+    "login_id": "1759121",
+    "user_id": "213282",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Bree Jones",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "bree-jones",
+    "title": "Bree Jones",
+    "videos_count": "0"
+}
