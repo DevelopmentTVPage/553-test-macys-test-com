@@ -1,0 +1,28 @@
+{
+    "id": "213121",
+    "first_name": "Andrew",
+    "last_name": "Percher",
+    "email": "Andrew.Percher@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/api\/canvas\/logo\/487627158-0.3095862621907.jpg",
+        "job_title": "eCommerce Technical Webmaster",
+        "local_macys_store": "251",
+        "racif_id": "01009977",
+        "phone_number": "678-474-2013",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525900148",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:06:34",
+    "login_id": "1759121",
+    "user_id": "213121",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Andrew Percher",
+    "profile_picture": "\/api\/canvas\/logo\/487627158-0.3095862621907.jpg",
+    "titleTextEncoded": "andrew-percher",
+    "title": "Andrew Percher",
+    "videos_count": "0"
+}

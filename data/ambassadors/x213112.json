@@ -1,0 +1,28 @@
+{
+    "id": "213112",
+    "first_name": "Delia",
+    "last_name": "Torres Escabi",
+    "email": "naomidelia.7@gmail.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/api\/canvas\/logo\/680820803-0.9478223023936.jpg",
+        "job_title": "Sales Colleague",
+        "local_macys_store": "-1",
+        "racif_id": "10906232",
+        "phone_number": "7879849313",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525823625",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 20:45:12",
+    "login_id": "1759121",
+    "user_id": "213112",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Delia Torres Escabi",
+    "profile_picture": "\/api\/canvas\/logo\/680820803-0.9478223023936.jpg",
+    "titleTextEncoded": "delia-torres-escabi",
+    "title": "Delia Torres Escabi",
+    "videos_count": "0"
+}

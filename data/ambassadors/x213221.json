@@ -1,0 +1,28 @@
+{
+    "id": "213221",
+    "first_name": "Sade'",
+    "last_name": "Anderson",
+    "email": "sade.anderson@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Manager of Jewelry Education",
+        "local_macys_store": "-1",
+        "racif_id": "71467997",
+        "phone_number": "9737049332",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525700992",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 14:33:36",
+    "login_id": "1759121",
+    "user_id": "213221",
+    "role_id": "2",
+    "status": "3",
+    "fullName": "Sade' Anderson",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "sade-anderson",
+    "title": "Sade' Anderson",
+    "videos_count": "0"
+}

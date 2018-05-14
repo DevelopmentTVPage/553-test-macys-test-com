@@ -1,0 +1,28 @@
+{
+    "id": "213111",
+    "first_name": "Lydia",
+    "last_name": "Kirsch",
+    "email": "lydiabkirsch@gmail.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "My Stylist",
+        "local_macys_store": "726",
+        "racif_id": "71573395",
+        "phone_number": "7169497154",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1526006194",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 20:45:09",
+    "login_id": "1759121",
+    "user_id": "213111",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Lydia Kirsch",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "lydia-kirsch",
+    "title": "Lydia Kirsch",
+    "videos_count": "1"
+}

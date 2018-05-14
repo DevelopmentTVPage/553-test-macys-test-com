@@ -1,0 +1,329 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "163856784",
+            "title": "hurley shorts",
+            "date_created": "1525893975",
+            "loginId": "1759121",
+            "tags": "",
+            "description": "hurley",
+            "asset": {
+                "videoMeta": {
+                    "duration": "137",
+                    "width": 1920,
+                    "height": 800
+                },
+                "mediaDuration": "137",
+                "prettyDuration": "00:02:17",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/thumb-62041026fb467afd05cef1e736539256-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/media.m3u8",
+                "assetId": "163856784",
+                "assetTitle": "yo",
+                "assetTitleTextEncoded": "the-simpsons-movie-1080p-trailer",
+                "loginId": "1759121",
+                "analyticsObj": {
+                    "pg": 0,
+                    "vd": "163856784",
+                    "li": "1759121"
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 800
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 534
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 356
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 266
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163856784\/98a1a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 134
+                    }
+                ]
+            },
+            "parentId": "163880169",
+            "url": "\/test\/the-simpsons-movie-1080p-trailer\/163880169-163856784"
+        },
+        {
+            "id": "163565661",
+            "title": "swipe right for fashion.",
+            "date_created": "1525698641",
+            "loginId": "1759121",
+            "tags": "",
+            "description": "#firstdate #fashion #date #datenihjt #ootd #dateideas #datenightoutfit #macysstylecrew #macysmystylist #style #confidence",
+            "asset": {
+                "videoMeta": {
+                    "duration": "102",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "102",
+                "prettyDuration": "00:01:42",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163565661\/d29c1\/thumb-eeb697bb127c41c73c564a09a18e9801-00002.jpg",
+                "type": "mp4",
+                "assetId": "163565661",
+                "assetTitle": "swipe right for fashion.",
+                "assetTitleTextEncoded": "lyd11-swiperightforfashion",
+                "loginId": "1759121",
+                "analyticsObj": {
+                    "pg": 0,
+                    "vd": "163565661",
+                    "li": "1759121"
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163565661\/d29c1\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163565661\/d29c1\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163565661\/d29c1\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163565661\/d29c1\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163565661\/d29c1\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "163880169",
+            "url": "\/test\/lyd11-swiperightforfashion\/163880169-163565661"
+        },
+        {
+            "id": "163873588",
+            "title": "Hello From Greg Bazarnik! District Director of Big Ticket!",
+            "date_created": "1525977054",
+            "loginId": "1759121",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "49",
+                    "width": 608,
+                    "height": 1080
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163873588\/e53f5\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 608,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163873588\/e53f5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 404,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163873588\/e53f5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 270,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163873588\/e53f5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 202,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163873588\/e53f5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 134,
+                        "height": 240
+                    }
+                ],
+                "mediaDuration": "49",
+                "prettyDuration": "00:00:49",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163873588\/e53f5\/thumb-47db3a899a30066bd41d0cf35f693023-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1759121\/163873588\/e53f5\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1759121\/163873588\/e53f5\/media.m3u8"
+            },
+            "parentId": "163880169",
+            "url": "\/test\/hello-from-greg-bazarnik-district-director-of-big-ticket\/163880169-163873588"
+        },
+        {
+            "id": "163873589",
+            "title": "Ginger Casals-Pierce Style Crew Audition",
+            "date_created": "1525978480",
+            "loginId": "1759121",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "87",
+                    "width": 1280,
+                    "height": 720
+                },
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163873589\/efe83\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163873589\/efe83\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163873589\/efe83\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163873589\/efe83\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163873589\/efe83\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "mediaDuration": "87",
+                "prettyDuration": "00:01:27",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163873589\/efe83\/thumb-22e24a1bdfd8262087517daa8e20de89-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1759121\/163873589\/efe83\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1759121\/163873589\/efe83\/media.m3u8"
+            },
+            "parentId": "163880169",
+            "url": "\/test\/ginger-casals-pierce-style-crew-audition\/163880169-163873589"
+        },
+        {
+            "id": "163879622",
+            "title": "MOVIE",
+            "date_created": "1526012139",
+            "loginId": "1759121",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163879622\/e67d7\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163879622\/e67d7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163879622\/e67d7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163879622\/e67d7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1759121\/163879622\/e67d7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "videoMeta": {
+                    "duration": "34",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "34",
+                "prettyDuration": "00:00:34",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/163879622\/e67d7\/thumb-1fc036d0d542844bcfb90cfaf013cb52-00001.jpg",
+                "type": "mp4"
+            },
+            "parentId": "163880169",
+            "url": "\/test\/movie\/163880169-163879622"
+        }
+    ]
+}

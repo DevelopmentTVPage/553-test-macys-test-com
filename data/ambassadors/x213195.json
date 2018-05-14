@@ -1,0 +1,28 @@
+{
+    "id": "213195",
+    "first_name": "Deborah",
+    "last_name": "Benton",
+    "email": "deborahnr3@aol.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/api\/canvas\/logo\/324233004-0.9391734946984.jpg",
+        "job_title": "Beauty advisor Chanel",
+        "local_macys_store": "-1",
+        "racif_id": "10774577",
+        "phone_number": "7577141404",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525799248",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 05:42:00",
+    "login_id": "1759121",
+    "user_id": "213195",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Deborah Benton",
+    "profile_picture": "\/api\/canvas\/logo\/324233004-0.9391734946984.jpg",
+    "titleTextEncoded": "deborah-benton",
+    "title": "Deborah Benton",
+    "videos_count": "0"
+}

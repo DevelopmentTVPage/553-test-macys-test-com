@@ -1,0 +1,28 @@
+{
+    "id": "213242",
+    "first_name": "Amanda",
+    "last_name": "Cavanzo",
+    "email": "amanda.m.cavanzo@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/api\/canvas\/logo\/964627206-0.3930154650006.jpg",
+        "job_title": "Visual Manager",
+        "local_macys_store": "-1",
+        "racif_id": "71151052",
+        "phone_number": "310.556.1611 Ext 2553",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525739830",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-04 18:25:52",
+    "login_id": "1759121",
+    "user_id": "213242",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Amanda Cavanzo",
+    "profile_picture": "\/api\/canvas\/logo\/964627206-0.3930154650006.jpg",
+    "titleTextEncoded": "amanda-cavanzo",
+    "title": "Amanda Cavanzo",
+    "videos_count": "0"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "213281",
+    "first_name": "Shay",
+    "last_name": "Winget",
+    "email": "sharon.winget@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Estee Lauder Counter Manager",
+        "local_macys_store": "-1",
+        "racif_id": "10209979",
+        "phone_number": "2535094989",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525713371",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-05 21:41:12",
+    "login_id": "1759121",
+    "user_id": "213281",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Shay Winget",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "shay-winget",
+    "title": "Shay Winget",
+    "videos_count": "0"
+}

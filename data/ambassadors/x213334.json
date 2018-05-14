@@ -1,0 +1,28 @@
+{
+    "id": "213334",
+    "first_name": "Souchitta",
+    "last_name": "Chanthompalit",
+    "email": "souchitta22@yahoo.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/api\/canvas\/logo\/638839777-0.5773869977332.jpg",
+        "job_title": "Visual Merchandiser",
+        "local_macys_store": "86",
+        "racif_id": "71361702",
+        "phone_number": "9783053119",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525979919",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-08 19:02:54",
+    "login_id": "1759121",
+    "user_id": "213334",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Souchitta Chanthompalit",
+    "profile_picture": "\/api\/canvas\/logo\/638839777-0.5773869977332.jpg",
+    "titleTextEncoded": "souchitta-chanthompalit",
+    "title": "Souchitta Chanthompalit",
+    "videos_count": "0"
+}

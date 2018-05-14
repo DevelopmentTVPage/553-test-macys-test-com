@@ -1,0 +1,28 @@
+{
+    "id": "213109",
+    "first_name": "Laura",
+    "last_name": "Sanchez",
+    "email": "laura.sanchez.de.leon@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "Wedding and Gift Registry Advisor",
+        "local_macys_store": "-1",
+        "racif_id": "10905151",
+        "phone_number": "787-221-9109",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525873954",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 20:42:27",
+    "login_id": "1759121",
+    "user_id": "213109",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Laura Sanchez",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "laura-sanchez",
+    "title": "Laura Sanchez",
+    "videos_count": "0"
+}

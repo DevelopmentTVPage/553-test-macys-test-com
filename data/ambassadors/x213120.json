@@ -1,0 +1,28 @@
+{
+    "id": "213120",
+    "first_name": "Daniel",
+    "last_name": "Ni",
+    "email": "daniel.ni@macys.com",
+    "data": {
+        "incentive": "3",
+        "auto_approve": true,
+        "profilePhoto": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+        "job_title": "My Stylist",
+        "local_macys_store": "-1",
+        "racif_id": "10648528",
+        "phone_number": "9493313539",
+        "tongal": ""
+    },
+    "last_login_timestamp": "1525641917",
+    "created_timestamp": null,
+    "modified_timestamp": "2018-05-03 21:06:08",
+    "login_id": "1759121",
+    "user_id": "213120",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Daniel Ni",
+    "profile_picture": "\/\/sitecdn.tvpage.com\/player\/logos\/default_profile.jpg",
+    "titleTextEncoded": "daniel-ni",
+    "title": "Daniel Ni",
+    "videos_count": "0"
+}
